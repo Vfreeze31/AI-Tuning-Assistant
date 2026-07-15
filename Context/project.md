@@ -17,7 +17,7 @@ related:
 
 This document defines the vision, objectives and scope of the AI Car Tuning Assistant project. It serves as the canonical description of the project and should be consulted before making architectural or design decisions.
 
-##Vision
+## Vision
 Build an open knowledge platform for racing game vehicle tuning.
 Support multiple racing games rather than being tied to one franchise.
 Initial focus:
@@ -32,7 +32,7 @@ Local-first architecture.
 Open-source wherever practical.
 Modular components to allow replacement without redesign.
 
-##Goals
+## Goals
 Explain tuning decisions rather than only giving values.
 Build reusable automotive knowledge.
 Separate game-specific knowledge from vehicle dynamics.
@@ -42,7 +42,7 @@ Minimise hallucination.
 Allow offline operation.
 Scale from single user to community contributions.
 
-##Non-goals
+## Non-goals
 Cloud-first SaaS.
 Closed proprietary knowledge.
 Vendor lock-in.
