@@ -13,14 +13,14 @@ related:
 
 These are the architectural decisions we've made.
 
-##AI
+## AI
 LLM abstraction layer.
 Local models preferred.
 Ollama selected as initial inference platform.
 Future cloud providers supported.
 
 
-##Knowledge Storage
+## Knowledge Storage
 Structured documents stored in Git.
 
 Reason:
@@ -31,7 +31,7 @@ Reason:
 
 Git is the source of truth.
 
-##Retrieval
+## Retrieval
 Multiple storage engines.
 
 Current architecture
@@ -74,7 +74,7 @@ Stores
 - tuning dependencies
 - knowledge graph
 
-##Workflow
+## Workflow
 Markdown
 ↓
 Validation
