@@ -6,6 +6,7 @@ owner: Project
 last_updated: 2026-07-15
 related:
   - project.md
+  - constraints.md
   - principles.md
   - roadmap.md
 ---
