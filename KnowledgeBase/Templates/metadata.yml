@@ -1,0 +1,52 @@
+---
+id: tune-forza-suspension-spring-rate-v1
+title: Spring Rate Theory
+type: theory
+domain: suspension
+game:
+  - fh5
+  - fh6
+  - fm2023
+  - ace
+vehicle_platform:
+  - generic
+authors:
+  - Iestyn Best
+created: 2026-07-13
+updated: 2026-07-13
+status: draft
+version: 0.1
+
+tags:
+  - suspension
+  - springs
+  - balance
+
+difficulty:
+  player: beginner
+  technical: intermediate
+
+relationships:
+  parent:
+  children:
+  related:
+
+sources:
+  - url:
+    title:
+    credibility:
+
+embedding:
+  enabled: true
+  chunk_strategy: heading
+
+neo4j:
+  node_type: Theory
+
+postgres:
+  category: Suspension
+
+qdrant:
+  collection: theory
+
+---
