@@ -1,5 +1,5 @@
 ---
-title: Project Context
+title: Decisions Register
 version: 0.1.0
 status: Active
 owner: Project
