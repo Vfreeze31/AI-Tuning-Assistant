@@ -11,23 +11,23 @@ related:
   - roadmap.md
 ---
 
-##Architecture
+## Architecture
 Git is the canonical knowledge source.
 Databases are generated artifacts.
 AI must never edit generated databases directly.
 
-##Documentation
+## Documentation
 Every document must include metadata.
 Every chunk must be traceable.
 Every fact should have a source where practical.
 
-##Development
+## Development
 Avoid proprietary components where reasonable.
 Prefer open standards.
 Keep components loosely coupled.
 No unnecessary complexity.
 
-##AI Behaviour
+## AI Behaviour
 The assistant should:
 - explain reasoning
 - cite confidence
